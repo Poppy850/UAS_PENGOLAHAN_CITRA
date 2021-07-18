@@ -1,2 +1,3 @@
-
+# UAS PENGOLAHAN CITRA 
+Menghitung-MSE-RMSE-dan- PNSR
 
